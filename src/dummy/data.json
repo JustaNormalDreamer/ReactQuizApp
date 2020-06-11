@@ -1,0 +1,264 @@
+[
+  {
+    "id": 1,
+    "title": "Who is known as the father of computer?",
+    "correct": "Charles Babbage",
+    "options": [
+      {
+        "id": "o1",
+        "answer": "John Napier"
+      },
+      {
+        "id": "o2",
+        "answer": "Steve Jobs"
+      },
+      {
+        "id": "o3",
+        "answer": "Lady Agusta Ada"
+      },
+      {
+        "id": "o4",
+        "answer": "Charles Babbage"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "title": "What is the largest bird?",
+    "correct": "Ostrich",
+    "options": [
+      {
+        "id": "o1",
+        "answer": "Vulture"
+      },
+      {
+        "id": "o2",
+        "answer": "Ostrich"
+      },
+      {
+        "id": "o3",
+        "answer": "Eagle"
+      },
+      {
+        "id": "o4",
+        "answer": "None of the above"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "title": "What is the longest river in the world?",
+    "correct": "Nile",
+    "options": [
+      {
+        "id": "o1",
+        "answer": "Amazon"
+      },
+      {
+        "id": "o2",
+        "answer": "Bishnumati"
+      },
+      {
+        "id": "o3",
+        "answer": "Nile"
+      },
+      {
+        "id": "o4",
+        "answer": "None of the above"
+      },
+      {
+        "id": "o5",
+        "answer": "All of the above"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "title": "What unit indicated the intensity of light?",
+    "correct": "Candela",
+    "options": [
+      {
+        "id": "o1",
+        "answer": "Newton"
+      },
+      {
+        "id": "o2",
+        "answer": "Pascal"
+      },
+      {
+        "id": "o3",
+        "answer": "Radian"
+      },
+      {
+        "id": "o4",
+        "answer": "Candela"
+      },
+      {
+        "id": "o5",
+        "answer": "None of the above"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "title": "What are the three primary colors?",
+    "correct": "Red, Green and Yellow",
+    "options": [
+      {
+        "id": "o1",
+        "answer": "White, Yellow, Orange"
+      },
+      {
+        "id": "o2",
+        "answer": "Yellow, Blue, Green"
+      },
+      {
+        "id": "o3",
+        "answer": "Red, Blue and Orange"
+      },
+      {
+        "id": "o4",
+        "answer": "Red, Green and Blue"
+      },
+      {
+        "id": "o5",
+        "answer": "Red, Green and Yellow"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "title": "What is the hardest metal on Earth?",
+    "correct": "Diamond",
+    "options": [
+      {
+        "id": "o1",
+        "answer": "Iron"
+      },
+      {
+        "id": "o2",
+        "answer": "Graphite"
+      },
+      {
+        "id": "o3",
+        "answer": "Sulphur"
+      },
+      {
+        "id": "o4",
+        "answer": "Aluminium"
+      },
+      {
+        "id": "o5",
+        "answer": "Diamond"
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "title": "What is the lightest chemical element?",
+    "correct": "Hydrogen",
+    "options": [
+      {
+        "id": "o1",
+        "answer": "Oxygen"
+      },
+      {
+        "id": "o2",
+        "answer": "Boron"
+      },
+      {
+        "id": "o3",
+        "answer": "Hydrogen"
+      },
+      {
+        "id": "o4",
+        "answer": "Helium"
+      },
+      {
+        "id": "o5",
+        "answer": "None of the above"
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "title": "How many eyes does a honeybee have?",
+    "correct": "Five",
+    "options": [
+      {
+        "id": "o1",
+        "answer": "One"
+      },
+      {
+        "id": "o2",
+        "answer": "Four"
+      },
+      {
+        "id": "o3",
+        "answer": "Five"
+      },
+      {
+        "id": "o4",
+        "answer": "Three"
+      },
+      {
+        "id": "o5",
+        "answer": "Doesn't have any eye"
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "title": "Which device do we use to look at the stars?",
+    "correct": "Telescope",
+    "options": [
+      {
+        "id": "o1",
+        "answer": "Binocular"
+      },
+      {
+        "id": "o2",
+        "answer": "Telescope"
+      },
+      {
+        "id": "o3",
+        "answer": "Camera"
+      },
+      {
+        "id": "o4",
+        "answer": "Eye glass"
+      },
+      {
+        "id": "o5",
+        "answer": "None of the above"
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "title": "Which planet is nearest to the sun?",
+    "correct": "Mercury",
+    "options": [
+      {
+        "id": "o1",
+        "answer": "Venus"
+      },
+      {
+        "id": "o2",
+        "answer": "Earth"
+      },
+      {
+        "id": "o3",
+        "answer": "Mercury"
+      },
+      {
+        "id": "o4",
+        "answer": "Saturn"
+      },
+      {
+        "id": "o5",
+        "answer": "Uranus"
+      }
+    ]
+  }
+]
