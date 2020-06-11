@@ -1,7 +1,7 @@
 import React, { Component } from "react";
 import Question from "./Question";
 
-import data from "../../dummy/data.json";
+import data from "../../dummy/questions.json";
 
 import { shuffle } from "../../utils/";
 
@@ -15,12 +15,17 @@ class Questions extends Component {
    * once the component is mounted
    */
   componentDidMount() {
+    /*
+     * filter the questions according to the category
+     */
+    const questions = data.filter(el => el.category_id === this.props.category);
+
     this.setState({
       /*
        * a callback with setState i.e. once the state is set for questions
        * shuffle it into another state called shuffled
        */
-      questions: shuffle(data)
+      questions: shuffle(questions)
     });
   }
 
@@ -48,14 +53,16 @@ class Questions extends Component {
             <span className="badge badge-success">Score: {score}</span>
           </h3>
         </div>
-        {questions.map((question, index) => (
-          <Question
-            key={question.id}
-            index={++index}
-            question={question}
-            check_answer={this.check_answer}
-          />
-        ))}
+        {questions.length > 0
+          ? questions.map((question, index) => (
+              <Question
+                key={question.id}
+                index={++index}
+                question={question}
+                check_answer={this.check_answer}
+              />
+            ))
+          : (<h3 className="">No questions found!</h3>)}
       </>
     );
   }

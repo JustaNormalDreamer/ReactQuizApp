@@ -1,6 +1,7 @@
 [
   {
     "id": 1,
+    "category_id": 5,
     "title": "Who is known as the father of computer?",
     "correct": "Charles Babbage",
     "options": [
@@ -24,6 +25,7 @@
   },
   {
     "id": 2,
+    "category_id": 4,
     "title": "What is the largest bird?",
     "correct": "Ostrich",
     "options": [
@@ -47,6 +49,7 @@
   },
   {
     "id": 3,
+    "category_id": 1,
     "title": "What is the longest river in the world?",
     "correct": "Nile",
     "options": [
@@ -74,6 +77,7 @@
   },
   {
     "id": 4,
+    "category_id": 1,
     "title": "What unit indicated the intensity of light?",
     "correct": "Candela",
     "options": [
@@ -101,6 +105,7 @@
   },
   {
     "id": 5,
+    "category_id": 1,
     "title": "What are the three primary colors?",
     "correct": "Red, Green and Yellow",
     "options": [
@@ -128,6 +133,7 @@
   },
   {
     "id": 6,
+    "category_id": 3,
     "title": "What is the hardest metal on Earth?",
     "correct": "Diamond",
     "options": [
@@ -155,6 +161,7 @@
   },
   {
     "id": 7,
+    "category_id": 3,
     "title": "What is the lightest chemical element?",
     "correct": "Hydrogen",
     "options": [
@@ -182,6 +189,7 @@
   },
   {
     "id": 8,
+    "category_id": 4,
     "title": "How many eyes does a honeybee have?",
     "correct": "Five",
     "options": [
@@ -209,6 +217,7 @@
   },
   {
     "id": 9,
+    "category_id": 1,
     "title": "Which device do we use to look at the stars?",
     "correct": "Telescope",
     "options": [
@@ -236,6 +245,7 @@
   },
   {
     "id": 10,
+    "category_id": 1,
     "title": "Which planet is nearest to the sun?",
     "correct": "Mercury",
     "options": [

@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "title": "Physics",
+    "description": "Quiz about physics."
+  },
+  {
+    "id": 2,
+    "title": "Animals/Plants",
+    "description": "Quiz questions about animals and plants."
+  },
+  {
+    "id": 3,
+    "title": "Chemistry",
+    "description": "Quiz questions about chemistry."
+  },
+  {
+    "id": 4,
+    "title": "Biology",
+    "description": "Quiz about biology."
+  },
+  {
+    "id": 5,
+    "title": "Technology",
+    "description": "Quiz questions about tech."
+  },
+  {
+    "id": 6,
+    "title": "Programming",
+    "description": "Quiz questions about programming."
+  }
+]
