@@ -7,7 +7,7 @@ const Category = props => {
   } = props;
 
   return (
-    <div className="col-md-3">
+    <div className="col-lg-3 col-md-6">
       <div className="card py-2 m-2" onClick={() => on_click(id)}>
         <div className="card-body text-center">
           <h4 className="">{title}</h4>
