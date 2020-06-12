@@ -21,20 +21,25 @@ class Categories extends Component {
     this.props.set_category(id);
   };
 
+  render_categories = () => {
+    return (
+      <div className="row">
+        {categories.map((category, index) => (
+          <Category
+            key={index}
+            category={category}
+            on_click={this.choosed_category}
+          />
+        ))}
+      </div>
+    );
+  };
+
   render() {
-    const { categories } = this.state;
     return (
       <>
         <h5>Please choose your category.</h5>
-        <div className="row">
-          {categories.map((category, index) => (
-            <Category
-              key={index}
-              category={category}
-              on_click={this.choosed_category}
-            />
-          ))}
-        </div>
+        {this.render_categories()}
       </>
     );
   }

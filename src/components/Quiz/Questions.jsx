@@ -1,7 +1,7 @@
 import React, { Component } from "react";
 import Question from "./Question";
-
 import data from "../../dummy/questions.json";
+import Timer from "../Timer/Timer";
 
 import { shuffle } from "../../utils/";
 
@@ -49,20 +49,25 @@ class Questions extends Component {
       <>
         <h5>Please answer the questions below</h5>
         <div className="clearfix">
-          <h3 className="float-right">
-            <span className="badge badge-success">Score: {score}</span>
-          </h3>
+          <div className="float-right">
+            <Timer />
+            <h3>
+              <span className="badge badge-success">Score: {score}</span>
+            </h3>
+          </div>
         </div>
-        {questions.length > 0
-          ? questions.map((question, index) => (
-              <Question
-                key={question.id}
-                index={++index}
-                question={question}
-                check_answer={this.check_answer}
-              />
-            ))
-          : (<h3 className="">No questions found!</h3>)}
+        {questions.length > 0 ? (
+          questions.map((question, index) => (
+            <Question
+              key={question.id}
+              index={++index}
+              question={question}
+              check_answer={this.check_answer}
+            />
+          ))
+        ) : (
+          <h3 className="">No questions found!</h3>
+        )}
       </>
     );
   }

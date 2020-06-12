@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import { Questions, Categories } from "./components/";
+import { Questions, Categories, Clock } from "./components/";
 import "bootstrap/dist/css/bootstrap.css";
 import "./styles.scss";
 
@@ -35,6 +35,7 @@ const App = () => {
         <div className="card">
           <div className="card-body">
             <h1>An open source quiz app</h1>
+            <Clock />
             {toggler()}
           </div>
         </div>

@@ -270,5 +270,977 @@
         "answer": "Uranus"
       }
     ]
+  },
+  {
+    "id": 11,
+    "category_id": 4,
+    "title": "For which among the following is not a true fruit?",
+    "correct": "Plum",
+    "options": [
+      {
+        "id": "o1",
+        "answer": "Apple"
+      },
+      {
+        "id": "o2",
+        "answer": "Date"
+      },
+      {
+        "id": "o3",
+        "answer": "Grape"
+      },
+      {
+        "id": "o4",
+        "answer": "Plum"
+      },
+      {
+        "id": "o5",
+        "answer": "Beetroot"
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "category_id": 4,
+    "title": "Which of the following is least infectious?",
+    "correct": "Leprosy",
+    "options": [
+      {
+        "id": "o1",
+        "answer": "Leprosy"
+      },
+      {
+        "id": "o2",
+        "answer": "Hepatitis"
+      },
+      {
+        "id": "o3",
+        "answer": "Tuberculosis"
+      },
+      {
+        "id": "o4",
+        "answer": "Conjunctivitis"
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "category_id": 4,
+    "title": "Which of the following is not a mosquito borne disease?",
+    "correct": "Sleeping sickness",
+    "options": [
+      {
+        "id": "o1",
+        "answer": "Dengue fever"
+      },
+      {
+        "id": "o2",
+        "answer": "Malayria"
+      },
+      {
+        "id": "o3",
+        "answer": "Filariasis"
+      },
+      {
+        "id": "o4",
+        "answer": "Sleeping sickness"
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "category_id": 4,
+    "title": "Among the following elements, which one is essential for the transmission of impulses in the nerve fibre?",
+    "correct": "Calcium",
+    "options": [
+      {
+        "id": "o1",
+        "answer": "Phosphorus"
+      },
+      {
+        "id": "o2",
+        "answer": "Calcium"
+      },
+      {
+        "id": "o3",
+        "answer": "Sodium"
+      },
+      {
+        "id": "o4",
+        "answer": "Sulphur"
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "category_id": 4,
+    "title": "The vitamin which is very liable and easily destroyed during cooking as well as storage is?",
+    "correct": "Vitamin C",
+    "options": [
+      {
+        "id": "o1",
+        "answer": "Vitamin A"
+      },
+      {
+        "id": "o2",
+        "answer": "Vitamin C"
+      },
+      {
+        "id": "o3",
+        "answer": "Vitamin K"
+      },
+      {
+        "id": "o4",
+        "answer": "Vitamin B6"
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "category_id": 4,
+    "title": "The compound used in anti-malarial drug is?",
+    "correct": "Chloroquin",
+    "options": [
+      {
+        "id": "o1",
+        "answer": "Aspirin"
+      },
+      {
+        "id": "o2",
+        "answer": "Neoprene"
+      },
+      {
+        "id": "o3",
+        "answer": "Chloroquin"
+      },
+      {
+        "id": "o4",
+        "answer": "Isoprene"
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "category_id": 4,
+    "title": "Which of the following is a skin disease?",
+    "correct": "Pellagra",
+    "options": [
+      {
+        "id": "o1",
+        "answer": "Pellagra"
+      },
+      {
+        "id": "o2",
+        "answer": "Anaemia"
+      },
+      {
+        "id": "o3",
+        "answer": "Osteomalacia"
+      },
+      {
+        "id": "o4",
+        "answer": "Rickets"
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "category_id": 4,
+    "title": "The richest source of vitamin D is?",
+    "correct": "Cod liver oil",
+    "options": [
+      {
+        "id": "o1",
+        "answer": "Cod liver oil"
+      },
+      {
+        "id": "o2",
+        "answer": "Spinach"
+      },
+      {
+        "id": "o3",
+        "answer": "Milk"
+      },
+      {
+        "id": "o4",
+        "answer": "Cheese"
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "category_id": 4,
+    "title": "Which of the following tests helps in diagnosis of cancer?",
+    "correct": "Biopsy test",
+    "options": [
+      {
+        "id": "o1",
+        "answer": "Biopsy test"
+      },
+      {
+        "id": "o2",
+        "answer": "Urine test"
+      },
+      {
+        "id": "o3",
+        "answer": "Blood test"
+      },
+      {
+        "id": "o4",
+        "answer": "X-ray"
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "category_id": 4,
+    "title": "Which vitamin is provided by sunlight to the body?",
+    "correct": "Vitamin D",
+    "options": [
+      {
+        "id": "o1",
+        "answer": "Vitamin C"
+      },
+      {
+        "id": "o2",
+        "answer": "Vitamin B6"
+      },
+      {
+        "id": "o3",
+        "answer": "Vitamin A"
+      },
+      {
+        "id": "o4",
+        "answer": "Vitamin D"
+      },
+      {
+        "id": "o5",
+        "answer": "Vitamin E"
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "category_id": 4,
+    "title": "The deficiency of which of the following leads to dental caries?",
+    "correct": "Fluorine",
+    "options": [
+      {
+        "id": "o1",
+        "answer": "Fluorine"
+      },
+      {
+        "id": "o2",
+        "answer": "Iron"
+      },
+      {
+        "id": "o3",
+        "answer": "Copper"
+      },
+      {
+        "id": "o4",
+        "answer": "Zinc"
+      },
+      {
+        "id": "o5",
+        "answer": "Calcium"
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "category_id": 4,
+    "title": "Which of the following diseases is caused by the bite of a mad dog?",
+    "correct": "Hydrophobia",
+    "options": [
+      {
+        "id": "o1",
+        "answer": "Hydrocele"
+      },
+      {
+        "id": "o2",
+        "answer": "Hydrophobia"
+      },
+      {
+        "id": "o3",
+        "answer": "Hydrocephatus"
+      },
+      {
+        "id": "o4",
+        "answer": "Hydroperitoneum"
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "category_id": 1,
+    "title": "The purpose of Choke in tube light is?",
+    "correct": "Hydrophobia",
+    "options": [
+      {
+        "id": "o1",
+        "answer": "To decrease the current"
+      },
+      {
+        "id": "o2",
+        "answer": "To increase the current"
+      },
+      {
+        "id": "o3",
+        "answer": "To decrease the voltage momentarily"
+      },
+      {
+        "id": "o4",
+        "answer": "To increase the voltage momentarily"
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "category_id": 1,
+    "title": "One Joule is equal to?",
+    "correct": "10^7erg",
+    "options": [
+      {
+        "id": "o1",
+        "answer": "10^7erg"
+      },
+      {
+        "id": "o2",
+        "answer": "10^3erg"
+      },
+      {
+        "id": "o3",
+        "answer": "10^5erg"
+      },
+      {
+        "id": "o4",
+        "answer": "10^1erg"
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "category_id": 1,
+    "title": "Bar is the unit of?",
+    "correct": "Atmospheric Pressure",
+    "options": [
+      {
+        "id": "o1",
+        "answer": "Atmospheric Pressure"
+      },
+      {
+        "id": "o2",
+        "answer": "Current"
+      },
+      {
+        "id": "o3",
+        "answer": "Heat"
+      },
+      {
+        "id": "o4",
+        "answer": "Temperature"
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "category_id": 1,
+    "title": "Kilohertz is the unit which measures?",
+    "correct": "Electromagnetic radio wave frequencies",
+    "options": [
+      {
+        "id": "o1",
+        "answer": "Electromagnetic radio wave frequencies"
+      },
+      {
+        "id": "o2",
+        "answer": "Voltage"
+      },
+      {
+        "id": "o3",
+        "answer": "Electric resistance"
+      },
+      {
+        "id": "o4",
+        "answer": "Power used by a current of one ampere"
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "category_id": 1,
+    "title": "Reading of a barometer going down is an indication of?",
+    "correct": "Rainfall",
+    "options": [
+      {
+        "id": "o1",
+        "answer": "Snow"
+      },
+      {
+        "id": "o2",
+        "answer": "Storm"
+      },
+      {
+        "id": "o3",
+        "answer": "Intense Heat"
+      },
+      {
+        "id": "o4",
+        "answer": "Rainfall"
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "category_id": 5,
+    "title": "Which of the following virus overtake computer system, when it boots and destroy information?",
+    "correct": "Stealth virus",
+    "options": [
+      {
+        "id": "o1",
+        "answer": "Stealth virus"
+      },
+      {
+        "id": "o2",
+        "answer": "Worm"
+      },
+      {
+        "id": "o3",
+        "answer": "Trojan Horse"
+      },
+      {
+        "id": "o4",
+        "answer": "Boot infectors"
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "category_id": 5,
+    "title": "Which of the following is a true statement about Intranet and Internet?",
+    "correct": "They use the same protocol",
+    "options": [
+      {
+        "id": "o1",
+        "answer": "They use the same protocol"
+      },
+      {
+        "id": "o2",
+        "answer": "Speed is slow"
+      },
+      {
+        "id": "o3",
+        "answer": "They use similar protocol"
+      },
+      {
+        "id": "o4",
+        "answer": "Encryption is necessary"
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "category_id": 5,
+    "title": "_______ Cookies are also known as transient cookies.",
+    "correct": "Session",
+    "options": [
+      {
+        "id": "o1",
+        "answer": "Session"
+      },
+      {
+        "id": "o2",
+        "answer": "Persistent"
+      },
+      {
+        "id": "o3",
+        "answer": "Second party"
+      },
+      {
+        "id": "o4",
+        "answer": "Third party"
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "category_id": 5,
+    "title": "V-RAM is used for access of the following?",
+    "correct": "Video and Graphics",
+    "options": [
+      {
+        "id": "o1",
+        "answer": "Video and Graphics"
+      },
+      {
+        "id": "o2",
+        "answer": "Programs"
+      },
+      {
+        "id": "o3",
+        "answer": "All"
+      },
+      {
+        "id": "o4",
+        "answer": "Text & Images"
+      }
+    ]
+  },
+  {
+    "id": 31,
+    "category_id": 5,
+    "title": "Which of the following memories needs refresh?",
+    "correct": "DRAM",
+    "options": [
+      {
+        "id": "o1",
+        "answer": "DRAM"
+      },
+      {
+        "id": "o2",
+        "answer": "ROM"
+      },
+      {
+        "id": "o3",
+        "answer": "SRAM"
+      },
+      {
+        "id": "o4",
+        "answer": "All of the above"
+      }
+    ]
+  },
+  {
+    "id": 32,
+    "category_id": 5,
+    "title": "Which company is the biggest player in the microprocessor industry?",
+    "correct": "Intel",
+    "options": [
+      {
+        "id": "o1",
+        "answer": "Intel"
+      },
+      {
+        "id": "o2",
+        "answer": "AMD"
+      },
+      {
+        "id": "o3",
+        "answer": "IBM"
+      },
+      {
+        "id": "o4",
+        "answer": "Samsung"
+      }
+    ]
+  },
+  {
+    "id": 33,
+    "category_id": 5,
+    "title": "The original ASCII code used ______ bits of each byte, reserving that last bit for error checking?",
+    "correct": "7",
+    "options": [
+      {
+        "id": "o1",
+        "answer": "7"
+      },
+      {
+        "id": "o2",
+        "answer": "5"
+      },
+      {
+        "id": "o3",
+        "answer": "2"
+      },
+      {
+        "id": "o4",
+        "answer": "9"
+      }
+    ]
+  },
+  {
+    "id": 34,
+    "category_id": 5,
+    "title": "Translator program used in assembly language",
+    "correct": "Assembler",
+    "options": [
+      {
+        "id": "o1",
+        "answer": "Assembler"
+      },
+      {
+        "id": "o2",
+        "answer": "Compiler"
+      },
+      {
+        "id": "o3",
+        "answer": "Operating System"
+      },
+      {
+        "id": "o4",
+        "answer": "Interpreter"
+      }
+    ]
+  },
+  {
+    "id": 35,
+    "category_id": 5,
+    "title": ".back extension refers to what kind of file?",
+    "correct": "Backup file",
+    "options": [
+      {
+        "id": "o1",
+        "answer": "Backup file"
+      },
+      {
+        "id": "o2",
+        "answer": "Document file"
+      },
+      {
+        "id": "o3",
+        "answer": "Audio file"
+      },
+      {
+        "id": "o4",
+        "answer": "Video file"
+      }
+    ]
+  },
+  {
+    "id": 36,
+    "category_id": 5,
+    "title": ".psd extension refers to what kind of file?",
+    "correct": "Photoshop file",
+    "options": [
+      {
+        "id": "o1",
+        "answer": "Photoshop file"
+      },
+      {
+        "id": "o2",
+        "answer": "Document file"
+      },
+      {
+        "id": "o3",
+        "answer": "Audio file"
+      },
+      {
+        "id": "o4",
+        "answer": "Video file"
+      }
+    ]
+  },
+  {
+    "id": 37,
+    "category_id": 5,
+    "title": ".exe extension refers to what kind of file?",
+    "correct": "Executable file",
+    "options": [
+      {
+        "id": "o1",
+        "answer": "Executable file"
+      },
+      {
+        "id": "o2",
+        "answer": "Document file"
+      },
+      {
+        "id": "o3",
+        "answer": "Audio file"
+      },
+      {
+        "id": "o4",
+        "answer": "Video file"
+      }
+    ]
+  },
+  {
+    "id": 38,
+    "category_id": 5,
+    "title": "Word length of a personal computer is?",
+    "correct": "8 bit",
+    "options": [
+      {
+        "id": "o1",
+        "answer": "8 bit"
+      },
+      {
+        "id": "o2",
+        "answer": "4 bit"
+      },
+      {
+        "id": "o3",
+        "answer": "16 bit"
+      },
+      {
+        "id": "o4",
+        "answer": "32 bit"
+      }
+    ]
+  },
+  {
+    "id": 39,
+    "category_id": 5,
+    "title": "A web page is located using a URL, what is its full form?",
+    "correct": "Universal Resource Locator",
+    "options": [
+      {
+        "id": "o1",
+        "answer": "Universal Resource Locator"
+      },
+      {
+        "id": "o2",
+        "answer": "Universal Record Locator"
+      },
+      {
+        "id": "o3",
+        "answer": "Universal Resource Linking"
+      },
+      {
+        "id": "o4",
+        "answer": "Universal Record Linking"
+      }
+    ]
+  },
+  {
+    "id": 40,
+    "category_id": 3,
+    "title": "Who propounded the word molecule?",
+    "correct": "Democritus",
+    "options": [
+      {
+        "id": "o1",
+        "answer": "Democritus"
+      },
+      {
+        "id": "o2",
+        "answer": "JJ Thomson"
+      },
+      {
+        "id": "o3",
+        "answer": "John Dolton"
+      },
+      {
+        "id": "o4",
+        "answer": "E. Rutherford"
+      }
+    ]
+  },
+  {
+    "id": 41,
+    "category_id": 3,
+    "title": "Which one of the following non metals is not a poor conductor of electricity?",
+    "correct": "Selenium",
+    "options": [
+      {
+        "id": "o1",
+        "answer": "Selenium"
+      },
+      {
+        "id": "o2",
+        "answer": "Sulphur"
+      },
+      {
+        "id": "o3",
+        "answer": "Bromine"
+      },
+      {
+        "id": "o4",
+        "answer": "Phosphorus"
+      }
+    ]
+  },
+  {
+    "id": 42,
+    "category_id": 3,
+    "title": "Which one of the following is not a chemical change?",
+    "correct": "Crystallization of table salt from sea water",
+    "options": [
+      {
+        "id": "o1",
+        "answer": "Crystallization of table salt from sea water"
+      },
+      {
+        "id": "o2",
+        "answer": "Burning of coal in air"
+      },
+      {
+        "id": "o3",
+        "answer": "Fermentation of sugarcane juice"
+      },
+      {
+        "id": "o4",
+        "answer": "Cracking of petroleum"
+      }
+    ]
+  },
+  {
+    "id": 43,
+    "category_id": 3,
+    "title": "Which metal remains in the liquid form under normal conditions?",
+    "correct": "Mercury",
+    "options": [
+      {
+        "id": "o1",
+        "answer": "Mercury"
+      },
+      {
+        "id": "o2",
+        "answer": "Zinc"
+      },
+      {
+        "id": "o3",
+        "answer": "Radium"
+      },
+      {
+        "id": "o4",
+        "answer": "Uranium"
+      }
+    ]
+  },
+  {
+    "id": 44,
+    "category_id": 3,
+    "title": "Commercially, sodium bicarbonate is known as?",
+    "correct": "Baking soda",
+    "options": [
+      {
+        "id": "o1",
+        "answer": "Baking soda"
+      },
+      {
+        "id": "o2",
+        "answer": "Washing soda"
+      },
+      {
+        "id": "o3",
+        "answer": "Bleaching powder"
+      },
+      {
+        "id": "o4",
+        "answer": "Soda ash"
+      }
+    ]
+  },
+  {
+    "id": 45,
+    "category_id": 3,
+    "title": "Acetyl salicylic acid is commonly used as?",
+    "correct": "A pain killer",
+    "options": [
+      {
+        "id": "o1",
+        "answer": "A pain killer"
+      },
+      {
+        "id": "o2",
+        "answer": "Tear gas"
+      },
+      {
+        "id": "o3",
+        "answer": "Fertilizer"
+      },
+      {
+        "id": "o4",
+        "answer": "A sedative"
+      }
+    ]
+  },
+  {
+    "id": 46,
+    "category_id": 3,
+    "title": "Which of the following is the source of common salt? ?",
+    "correct": "Halite",
+    "options": [
+      {
+        "id": "o1",
+        "answer": "Halite"
+      },
+      {
+        "id": "o2",
+        "answer": "Pyrite"
+      },
+      {
+        "id": "o3",
+        "answer": "Calcite"
+      },
+      {
+        "id": "o4",
+        "answer": "Bauxite"
+      }
+    ]
+  },
+  {
+    "id": 47,
+    "category_id": 5,
+    "title": "In latest generation computers, the instructions are executed",
+    "correct": "Both sequentially and parallelly",
+    "options": [
+      {
+        "id": "o1",
+        "answer": "Both sequentially and parallelly"
+      },
+      {
+        "id": "o2",
+        "answer": "Sequentially only"
+      },
+      {
+        "id": "o3",
+        "answer": "Parallelly only"
+      },
+      {
+        "id": "o4",
+        "answer": "None of the above"
+      }
+    ]
+  },
+  {
+    "id": 48,
+    "category_id": 3,
+    "title": "The gas that is responsible for global warming is?",
+    "correct": "Carbon dioxide",
+    "options": [
+      {
+        "id": "o1",
+        "answer": "Carbon dioxide"
+      },
+      {
+        "id": "o2",
+        "answer": "Oxygen"
+      },
+      {
+        "id": "o3",
+        "answer": "Sulphir dioxide"
+      },
+      {
+        "id": "o4",
+        "answer": "Methane"
+      }
+    ]
+  },
+  {
+    "id": 49,
+    "category_id": 4,
+    "title": "In certain amino acids, which one of the following elements is found in addition to carbon , hydrogen, nitrogen and oxygen?",
+    "correct": "Sulphur",
+    "options": [
+      {
+        "id": "o1",
+        "answer": "Phosphorus"
+      },
+      {
+        "id": "o2",
+        "answer": "Zinc"
+      },
+      {
+        "id": "o3",
+        "answer": "Calcium"
+      },
+      {
+        "id": "o4",
+        "answer": "Sulphur"
+      }
+    ]
   }
 ]
