@@ -1,7 +1,7 @@
 {
-  "name": "quiz-app",
+  "name": "react-quiz-app",
   "version": "1.0.0",
-  "description": "",
+  "description": "A simple quiz application developed using React and bootstrap.",
   "keywords": [],
   "main": "src/index.js",
   "dependencies": {
