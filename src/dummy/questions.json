@@ -350,30 +350,6 @@
   {
     "id": 14,
     "category_id": 4,
-    "title": "In certain amino acids, which one of the following elements is found in addition to carbon , hydrogen, nitrogen and oxygen?",
-    "correct": "Sulphur",
-    "options": [
-      {
-        "id": "o1",
-        "answer": "Phosphorus"
-      },
-      {
-        "id": "o2",
-        "answer": "Zinc"
-      },
-      {
-        "id": "o3",
-        "answer": "Calcium"
-      },
-      {
-        "id": "o4",
-        "answer": "Sulphur"
-      }
-    ]
-  },
-  {
-    "id": 14,
-    "category_id": 4,
     "title": "Among the following elements, which one is essential for the transmission of impulses in the nerve fibre?",
     "correct": "Calcium",
     "options": [
@@ -908,30 +884,6 @@
     ]
   },
   {
-    "id": 34,
-    "category_id": 5,
-    "title": "In latest generation computers, the instructions are executed",
-    "correct": "Both sequentially and parallelly",
-    "options": [
-      {
-        "id": "o1",
-        "answer": "Both sequentially and parallelly"
-      },
-      {
-        "id": "o2",
-        "answer": "Sequentially only"
-      },
-      {
-        "id": "o3",
-        "answer": "Parallelly only"
-      },
-      {
-        "id": "o4",
-        "answer": "None of the above"
-      }
-    ]
-  },
-  {
     "id": 35,
     "category_id": 5,
     "title": ".back extension refers to what kind of file?",
@@ -1196,7 +1148,55 @@
     ]
   },
   {
-    "id": 45,
+    "id": 46,
+    "category_id": 3,
+    "title": "Which of the following is the source of common salt? ?",
+    "correct": "Halite",
+    "options": [
+      {
+        "id": "o1",
+        "answer": "Halite"
+      },
+      {
+        "id": "o2",
+        "answer": "Pyrite"
+      },
+      {
+        "id": "o3",
+        "answer": "Calcite"
+      },
+      {
+        "id": "o4",
+        "answer": "Bauxite"
+      }
+    ]
+  },
+  {
+    "id": 47,
+    "category_id": 5,
+    "title": "In latest generation computers, the instructions are executed",
+    "correct": "Both sequentially and parallelly",
+    "options": [
+      {
+        "id": "o1",
+        "answer": "Both sequentially and parallelly"
+      },
+      {
+        "id": "o2",
+        "answer": "Sequentially only"
+      },
+      {
+        "id": "o3",
+        "answer": "Parallelly only"
+      },
+      {
+        "id": "o4",
+        "answer": "None of the above"
+      }
+    ]
+  },
+  {
+    "id": 48,
     "category_id": 3,
     "title": "The gas that is responsible for global warming is?",
     "correct": "Carbon dioxide",
@@ -1220,26 +1220,26 @@
     ]
   },
   {
-    "id": 46,
-    "category_id": 3,
-    "title": "Which of the following is the source of common salt? ?",
-    "correct": "Halite",
+    "id": 49,
+    "category_id": 4,
+    "title": "In certain amino acids, which one of the following elements is found in addition to carbon , hydrogen, nitrogen and oxygen?",
+    "correct": "Sulphur",
     "options": [
       {
         "id": "o1",
-        "answer": "Halite"
+        "answer": "Phosphorus"
       },
       {
         "id": "o2",
-        "answer": "Pyrite"
+        "answer": "Zinc"
       },
       {
         "id": "o3",
-        "answer": "Calcite"
+        "answer": "Calcium"
       },
       {
         "id": "o4",
-        "answer": "Bauxite"
+        "answer": "Sulphur"
       }
     ]
   }
