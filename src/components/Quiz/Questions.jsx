@@ -8,7 +8,8 @@ import { shuffle } from "../../utils/";
 class Questions extends Component {
   state = {
     score: 0,
-    questions: []
+    questions: [],
+    total_questions: 0
   };
 
   /*
@@ -20,13 +21,17 @@ class Questions extends Component {
      */
     const questions = data.filter(el => el.category_id === this.props.category);
 
-    this.setState({
-      /*
-       * a callback with setState i.e. once the state is set for questions
-       * shuffle it into another state called shuffled
-       */
-      questions: shuffle(questions)
-    });
+    this.setState(
+      {
+        /*
+         * a callback with setState i.e. once the state is set for questions
+         * shuffle it into another state called shuffled
+         */
+        questions: shuffle(questions)
+      },
+      //once the questions are set to the state count the total questions
+      () => this.update_total_questions()
+    );
   }
 
   /*
@@ -43,14 +48,28 @@ class Questions extends Component {
     return true;
   };
 
+  /*
+   * updating the total_questions state
+   */
+  update_total_questions = () => {
+    this.setState({
+      total_questions: this.state.questions.length
+    });
+  };
+
   render() {
-    const { questions, score } = this.state;
+    const { questions, score, total_questions } = this.state;
     return (
       <>
         <h5>Please answer the questions below</h5>
         <div className="clearfix">
           <div className="float-right">
-            <Timer />
+            {/* if the total question in greather than 0 display the timter else don't */}
+            {total_questions > 0 ? (
+              <Timer total_questions={total_questions} />
+            ) : (
+              ""
+            )}
             <h3>
               <span className="badge badge-success">Score: {score}</span>
             </h3>

@@ -4,7 +4,7 @@ class Timer extends Component {
   timeout = 0;
 
   state = {
-    timer: 0
+    timer: this.props.total_questions * 20
   };
 
   componentDidMount() {
@@ -17,18 +17,16 @@ class Timer extends Component {
 
   update = () => {
     let t = this.state.timer;
-    this.setState({
-      timer: t + 1
-    });
+    if (t > 0) {
+      this.setState({
+        timer: t - 1
+      });
+    }
   };
 
   render() {
     const { timer } = this.state;
-    return (
-      <>
-        <h1>{`${timer}s`}</h1>
-      </>
-    );
+    return <>{timer > 0 ? <h1>{`${timer}s`}</h1> : <h3>Time Expired!</h3>}</>;
   }
 }
 
